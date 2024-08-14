@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Nunito Sans", sans-serif;
+    background-color: #f3e6d8;
+    height: 100vh;
+}
+.card{
+    background-color: #fff;
+    width: 600px;
+    height: 350px;
+    /* height: fit-content;  */
+    border-radius: 10px;
+    /* Using margin: auto to center a div */
+    margin: 100px auto;
+
+    /* Abeg no touch this code */
+    /* margin-left: 200px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-right: 200px; */
+
+    /* margin: 200px; */
+    /* margin: 200px 150px 200px 150px; */
+}
+/* ul{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    /* border-width: 5px;
+    border-style: dashed;
+    border-color: blue; */
+ /* border: 2px solid blue;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+} */
