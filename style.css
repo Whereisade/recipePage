@@ -7,7 +7,7 @@
 }
 body{
     font-family: "Nunito Sans", sans-serif;
-    background-color: #f3e6d8;
+    background-color: #183D3D;
     height: 100vh;
 }
 .card{
@@ -61,4 +61,66 @@ body{
 }
 .description p{
     font-size: 14px;
+}
+.preptime{
+    background-color: #fff5fa;
+    padding: 22px;
+    border-radius: 10px;
+    margin-top: 10px;
+    font-family: "Tinos", serif;
+    
+    
+}
+.preptime p{
+    padding-bottom: 12px;
+    color: #800000;
+    font-weight: 700;
+    padding-left: 1px;
+
+}
+.flist{
+    padding-left: 20px;
+    color: #4a4643;
+}
+span{
+    font-weight: 600;
+}
+.fuli{
+    padding: 4px 7px;
+}
+.Ingredients{
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Ingredients h3{
+    color: #800000;
+}
+.slist{
+    padding: 20px 0 10px 20px;
+}
+.seli{
+    padding: 4px 7px;
+}
+hr{
+    margin: 15px;
+    color: #F5F7F8;
+    opacity: 0.2;
+}
+
+.instructions{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.instructions h3{
+   margin: 0 0 10px 5px;
+   font-weight: 900;
+}
+#tlist{
+    margin-left: 10px;
+    padding: 10px;
+}
+.thdli{
+    padding: 4px 7px;
 }
