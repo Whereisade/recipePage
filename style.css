@@ -105,6 +105,7 @@ hr{
     margin: 15px;
     color: #F5F7F8;
     opacity: 0.2;
+    
 }
 
 .instructions{
@@ -124,3 +125,58 @@ hr{
 .thdli{
     padding: 4px 7px;
 }
+
+#nutrition{
+    padding-top: 15px;
+}
+#nutripara{
+    font-size: 14px;
+    opacity: 0.5;
+    padding: 15px 0 20px 0;
+}
+/* .nutriflex{
+    display: flex;
+    padding: px;
+}
+#nutriname{
+   margin-left: 60px;
+   font-weight: 350;
+   
+}
+.nutrivalue{
+    margin-left: 50px;
+    font-weight: 600;
+    
+}
+.nutriline{
+    width: 400px;
+} */
+table {
+    border-collapse: collapse;
+    display: flex;
+    gap: 100px;
+}
+#nutridiv{
+    margin-left: 55px;
+}
+
+.row1{
+    padding-left: 15px;
+    border-bottom: 1px solid;
+    /* border-width: 1px; */
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+   
+}
+.row2{
+   padding-left: 230px;
+   border-bottom: 1px solid;
+   padding-bottom: 20px;
+   
+}
+span{
+    color: #800000;
+    font-weight: 700;
+}
+
